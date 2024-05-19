@@ -1,0 +1,1 @@
+This project is a simple calculator built using HTML,CSS and javascript.It performs basic arithmetic operations.calcimain (html file) is the main to be runned.calcijs is the javascript code file.calcistyle is css file .
